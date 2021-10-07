@@ -1,5 +1,6 @@
 # git_03
-archivos de texto
-ghgnfnnngnbdnngd
-bdfzbzdngngdnn
-dndzndzgndgndgn
+
+archivos de texto 
+instrucciones.txt
+contactos.txt
+telefonos.txt
